@@ -1,0 +1,10 @@
+//create a text analyzer that prints string manipulation after each string process
+
+//first method count characters
+//print the string manipulation
+
+//second method count words in the string
+//print the string manipulation
+
+//third method count the unique words in a processed string
+//print the string manipulation
